@@ -1,5 +1,5 @@
 a = int(input())
 b = int(input())
 c =max([a,b])
-e = list(range(1 ,27))
+e = list(range(c))
 print(sum(e))
