@@ -1,4 +1,11 @@
-a = int(input())
-if a % 3 == 0:
-    print(a * 2)
+# a =[int(input()),int(input()),int(input()),int(input())]
+# b = sum (a) - min(a)
+# print(b)
+
+
+a = list(range(3,101,3))
+print(sum(a))
+
+
+
 
