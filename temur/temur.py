@@ -1,5 +1,5 @@
 a = int(input())
 b = int(input())
-c = max([a, b])
+c = max([a +1, b + 1])
 d = list(range(c))
 print(sum(d))
