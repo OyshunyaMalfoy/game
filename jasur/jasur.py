@@ -1,5 +1,5 @@
-a = 10
-b = 3
-c = a + b
+a = int(input())
+b = int(input())
+x = [a ,b]
+c =sum(x)-max(x)
 print(c)
-
