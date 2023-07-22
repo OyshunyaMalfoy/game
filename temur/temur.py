@@ -1,2 +1,5 @@
-a = list(range(5, 101,5))
-print(sum(a))
+a = int(input())
+b = int(input())
+c = max([a, b])
+d = list(range(c))
+print(sum(d))
