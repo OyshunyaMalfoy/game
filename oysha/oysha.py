@@ -7,7 +7,9 @@
 # print(sum(a))
 
 
-a = [int(input()),int(input())]
-b = min(a)
-c = list(range(1,b+1))
-print(sum(c))
+ # a = [int(input()),int(input())]
+ # b = min(a)
+ # c = list(range(1,b+1))
+ # print(sum(c))
+
+
