@@ -1,5 +1,4 @@
-a = int(input())
-b = int(input())
-c =max([a,b])
-e = list(range(c))
-print(sum(e))
+a = list(range(1, 6))
+b = a[2: 6: 1]
+c = sum(b)
+print(c)
