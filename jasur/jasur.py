@@ -1,5 +1,2 @@
-a = int(input())
-b = int(input())
-c = max([a, b])
-d = list(range(1, c + 1))
-print(sum(d))
+a =list(range(1,101))
+print(a)
