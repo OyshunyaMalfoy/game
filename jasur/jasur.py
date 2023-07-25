@@ -1,3 +1,3 @@
-a = [int(input()),int(input()),int(input())]
-b = max(a) - min(a)
+a = int(input())
+b = list(range(1,a))
 print(b)
