@@ -1,6 +1,3 @@
-a = int(input())
-b = int(input())
-c = max([a, b])
-d = max([a, b])
-e = list(range(1, d))
-print(sum(e))
+a = list(range(1, 6))
+b = a[2:]
+print(sum(b))
