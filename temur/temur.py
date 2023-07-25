@@ -1,6 +1,4 @@
-a = int(input())
-b = int(input())
-c = sum[a, b]
-d = max[a, b]
-e = c - d
-print(e)
+a = list(range(1, 6))
+b = a[2:]
+print(sum(b))
+
