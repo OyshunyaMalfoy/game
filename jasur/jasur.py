@@ -1,2 +1,3 @@
-a =list(range(1,101))
-print(a)
+a = [int(input()),int(input()),int(input())]
+b = max(a) - min(a)
+print(b)
