@@ -1,3 +1,5 @@
-a = list(range(1,6))
-b = sum [3,5]
-print (b)
+a = [int(input()),int(input()),int(input())]
+c = sum[a, b]
+d = max[a, b]
+e = c - d
+print(e)
